@@ -7,7 +7,7 @@ This analysis was ran using the following configuration:
 plotly==4.14.1 | statsmodels==0.12.1
 
 ## Objective
-The objective of this analysis is to identify changes and time trends in access to safely managed sanitation, including variations in access levels by income group, using plotly for visualization.
+The objective of this analysis is to identify changes and time trends in access to safely managed sanitation services, including variations in access levels by income group, using plotly for visualization.
 
 ## Workflow
 The pipeline is fully automated, using inputs available through APIs or webscraping. Thereforer, paths do not need to be modified.
