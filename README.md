@@ -21,4 +21,7 @@ Alex Chunet
 
 ## Part 2: How long do World Bank retirees live?
 
+The review and critique of the mail provided by the team is included in the _part2.md_ file.
 
+## Author
+Alex Chunet
