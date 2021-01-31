@@ -9,8 +9,12 @@ plotly==4.14.1 | statsmodels==0.12.1
 ## Objective
 The objective of this analysis is to identify changes and time trends in access to safely managed sanitation services, including variations in access levels by income group, using plotly for visualization.
 
+## Data sources
+- World Development Indicators database for access to sanitation data
+- World Bank Country and Lending groups classification database for income groups data
+
 ## Workflow
-The pipeline is fully automated, using inputs available through APIs or webscraping. Thereforer, paths do not need to be modified.
+The pipeline is fully automated, using inputs available through APIs or webscraping. Therefore, paths do not need to be modified.
 
 ## Author
 Alex Chunet
